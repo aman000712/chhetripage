@@ -641,7 +641,7 @@ flex: 1;
         font-size: 29px;
     }
     .main{
-        background: url("./half.png") no-repeat;
+        background: url("./photos/half.png") no-repeat;
         width: 100%;
         background-color:#BFB28A;
         background-size:contain;
@@ -653,7 +653,7 @@ flex: 1;
         font-size: 20px;
         height: 240px;
         padding: 0 130px;
-        background-image: url(./book.jpg);
+        background-image: url(./photos/book.jpg);
         background-size: cover;
         background-position: center;
         display: flex;
